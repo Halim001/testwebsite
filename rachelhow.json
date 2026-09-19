@@ -1,0 +1,250 @@
+{
+  "data": {
+    "screenshot": "https://storage.googleapis.com/firecrawl-scrape-media/screenshot-558369a8-7bc9-4510-b400-6dc20528d4bb.png?GoogleAccessId=scrape-bucket-accessor%40firecrawl.iam.gserviceaccount.com&Expires=1789848558&Signature=t1xJTnVQWejekrWv8TzVMLMnPKSZel4JqsbIDzELKIheNttDbYyO53vcf7h%2FTcl1y9WQFmOnazjYMJdxjnBEOjwWfyoZAtx8H97J%2BvceWk9ic%2BcJL0KNav7mkjXFAUnZr%2BtIHp9G%2BsBsrC%2BUxMKvdoBEQFPcsQ9IlDDApQ%2Bgbx72E6uNenx0xn0%2BjsD%2BPRV4M%2F%2FuGWHUNdNhOmJOiagIQHYXNFzYK%2F4q9aTsBZA2CKY0MSH1th8dBLG7FTN%2Ftuj4UnL2t9zYcmEi%2FS%2BdHr8Y3MwqD58kl4n5F6WaRpdz9mTwP8IMo1Ys5G%2FCF4IRTpRok3b5uTGU9isZwxdMwGj2pA%3D%3D",
+    "branding": {
+      "colorScheme": "light",
+      "fonts": [
+        {
+          "family": "PP Mori",
+          "role": "heading"
+        },
+        {
+          "family": "PP Woodland",
+          "role": "body"
+        },
+        {
+          "family": "Roboto",
+          "role": "unknown"
+        },
+        {
+          "family": "Helvetica",
+          "role": "unknown"
+        },
+        {
+          "family": "Arial",
+          "role": "unknown"
+        }
+      ],
+      "colors": {
+        "primary": "#3898EC",
+        "secondary": "#FFFF00",
+        "accent": "#0082F3",
+        "background": "#FDFCF9",
+        "textPrimary": "#9F9E9D",
+        "link": "#0082F3"
+      },
+      "typography": {
+        "fontFamilies": {
+          "primary": "PP Woodland",
+          "heading": "PP Mori"
+        },
+        "fontStacks": {
+          "heading": [
+            "PP Mori",
+            "system-ui",
+            "-apple-system",
+            "BlinkMacSystemFont",
+            "Segoe UI",
+            "Roboto",
+            "Helvetica",
+            "Arial",
+            "sans-serif"
+          ],
+          "body": [
+            "PP Mori",
+            "system-ui",
+            "-apple-system",
+            "BlinkMacSystemFont",
+            "Segoe UI",
+            "Roboto",
+            "Helvetica",
+            "Arial",
+            "sans-serif"
+          ],
+          "paragraph": [
+            "PP Mori",
+            "system-ui",
+            "-apple-system",
+            "BlinkMacSystemFont",
+            "Segoe UI",
+            "Roboto",
+            "Helvetica",
+            "Arial",
+            "sans-serif"
+          ]
+        },
+        "fontSizes": {
+          "h1": "16px",
+          "h2": "16px",
+          "body": "16px"
+        }
+      },
+      "spacing": {
+        "baseUnit": 4,
+        "borderRadius": "16px"
+      },
+      "components": {},
+      "images": {
+        "logo": "https://www.rachelhow.com/images/chrome/613ff547f536e40903b0d7f2_256.png",
+        "favicon": "https://www.rachelhow.com/images/chrome/613ff53daf424e2d2aa775dc_Frame-6876.png",
+        "ogImage": "https://www.rachelhow.com/images/webflow/64f9a1834c0ef83f960eaf25_CleanShot-2023-09-07-at-18.08.24-2x.webp",
+        "logoAlt": "Rachel How"
+      },
+      "__llm_logo_reasoning": {
+        "selectedIndex": 2,
+        "reasoning": "Selected #2 because it is visible, located in the header, and matches the brand name 'Rachel How'. It is the largest and most prominent logo, aligning with the favicon and brand identity.",
+        "confidence": 0.95,
+        "source": "llm"
+      },
+      "personality": {
+        "tone": "modern",
+        "energy": "medium",
+        "targetAudience": "creative professionals"
+      },
+      "designSystem": {
+        "framework": "custom",
+        "componentLibrary": ""
+      },
+      "confidence": {
+        "buttons": 0,
+        "colors": 0.9,
+        "overall": 0.45
+      },
+      "__llm_metadata": {
+        "logoSelection": {
+          "llmCalled": true,
+          "llmSucceeded": true,
+          "finalSource": "llm",
+          "rawLogoSelection": {
+            "selectedLogoIndex": 2,
+            "selectedLogoReasoning": "Selected #2 because it is visible, located in the header, and matches the brand name 'Rachel How'. It is the largest and most prominent logo, aligning with the favicon and brand identity.",
+            "confidence": 0.95
+          }
+        },
+        "buttonClassification": {
+          "llmCalled": false,
+          "llmSucceeded": false
+        }
+      },
+      "brandName": "Rachel How",
+      "logo": "https://www.rachelhow.com/images/chrome/613ff547f536e40903b0d7f2_256.png"
+    },
+    "metadata": {
+      "twitter:card": "summary_large_image",
+      "google-site-verification": "WyJZH-OnhcRIiSvGOLog9SX54OXoXABQW71gR40taCA",
+      "title": "Rachel How",
+      "twitter:description": "Rachel How is a designer, youtuber and Video Lead at Mobbin.",
+      "language": "en",
+      "twitter:image": "https://www.rachelhow.com/images/webflow/64f9a1834c0ef83f960eaf25_CleanShot-2023-09-07-at-18.08.24-2x.webp",
+      "description": "Rachel How is a designer, youtuber and Video Lead at Mobbin.",
+      "p:domain_verify": "d4f70ee5777fd91857a64ddc2596a4fe",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:type": "website",
+      "ogTitle": "Rachel How",
+      "ogImage": "https://www.rachelhow.com/images/webflow/64f9a1834c0ef83f960eaf25_CleanShot-2023-09-07-at-18.08.24-2x.webp",
+      "twitter:title": "Rachel How",
+      "og:description": "Rachel How is a designer, youtuber and Video Lead at Mobbin.",
+      "og:image": "https://www.rachelhow.com/images/webflow/64f9a1834c0ef83f960eaf25_CleanShot-2023-09-07-at-18.08.24-2x.webp",
+      "ogDescription": "Rachel How is a designer, youtuber and Video Lead at Mobbin.",
+      "og:title": "Rachel How",
+      "favicon": "https://www.rachelhow.com/images/chrome/613ff53daf424e2d2aa775dc_Frame-6876.png",
+      "scrapeId": "01a0973d-06a8-758c-bc6a-dd1fbc0e3538",
+      "sourceURL": "https://www.rachelhow.com/",
+      "url": "https://www.rachelhow.com/",
+      "statusCode": 200,
+      "contentType": "text/html; charset=utf-8",
+      "timezone": "America/New_York",
+      "proxyUsed": "basic",
+      "creditsUsed": 1,
+      "concurrencyLimited": false
+    },
+    "html": "<!DOCTYPE html><html lang=\"en\" data-wf-domain=\"www.rachelhow.com\" data-wf-site=\"60c5f64abe141da7260da0b9\" class=\" w-mod-js w-mod-ix\"><body class=\"body\"><div><!--$--><!--/$--></div><div class=\"site-main\"><section class=\"section mb-36 home-projects\" aria-label=\"Latest projects\"><div class=\"container\"><p class=\"home-projects-intro\">Fun experiments I did recently<!-- --> <span aria-hidden=\"true\">◡̈</span></p><div class=\"projects-masonry-grid home-projects-grid\"><div class=\"home-col\"><article class=\"case-study-card home-project-card space-below\"><div class=\"home-project-media\"><img src=\"https://www.rachelhow.com/images/home/projects/deskslope.png\" loading=\"lazy\" alt=\"DeskSlope\" class=\"case-study-thumbnail home-project-thumb\" width=\"1200\" height=\"630\"><img src=\"https://www.rachelhow.com/images/home/projects/deskslope.png\" loading=\"lazy\" alt=\"\" aria-hidden=\"true\" class=\"home-project-blur\"><div class=\"home-project-dim\" aria-hidden=\"true\"></div><div class=\"home-project-copy\"><h3 class=\"home-project-title\">DeskSlope</h3><p class=\"home-project-desc\">Snowboard using your webcam</p></div><a href=\"https://www.rachelhow.com/deskslope\" target=\"_blank\" rel=\"noreferrer\" class=\"home-project-arrow\"><svg viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M7 17L17 7M17 7H10M17 7V14\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg><span class=\"home-project-arrow-label\">Open <!-- -->DeskSlope</span></a></div></article><article class=\"case-study-card home-project-card space-below\"><div class=\"home-project-media\"><img src=\"https://www.rachelhow.com/images/home/projects/nostalgic-snack-museum.png\" loading=\"lazy\" alt=\"Nostalgic Snack Museum\" class=\"case-study-thumbnail home-project-thumb\" width=\"729\" height=\"408\"><img src=\"https://www.rachelhow.com/images/home/projects/nostalgic-snack-museum.png\" loading=\"lazy\" alt=\"\" aria-hidden=\"true\" class=\"home-project-blur\"><div class=\"home-project-dim\" aria-hidden=\"true\"></div><div class=\"home-project-copy\"><h3 class=\"home-project-title\">Nostalgic Snack Museum</h3><p class=\"home-project-desc\">Documenting my favourite Malaysian childhood snacks!</p></div><a href=\"https://nostalgicsnacks.com/\" target=\"_blank\" rel=\"noreferrer\" class=\"home-project-arrow\"><svg viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M7 17L17 7M17 7H10M17 7V14\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg><span class=\"home-project-arrow-label\">Open <!-- -->Nostalgic Snack Museum</span></a></div></article><article class=\"case-study-card home-project-card space-below\"><div class=\"home-project-media\"><img src=\"https://www.rachelhow.com/images/home/projects/sidequest.png\" loading=\"lazy\" alt=\"Hosting demo nights\" class=\"case-study-thumbnail home-project-thumb\" width=\"1200\" height=\"630\"><img src=\"https://www.rachelhow.com/images/home/projects/sidequest.png\" loading=\"lazy\" alt=\"\" aria-hidden=\"true\" class=\"home-project-blur\"><div class=\"home-project-dim\" aria-hidden=\"true\"></div><div class=\"home-project-copy\"><h3 class=\"home-project-title\">Hosting demo nights</h3></div><a href=\"https://sidequest.camp/\" target=\"_blank\" rel=\"noreferrer\" class=\"home-project-arrow\"><svg viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M7 17L17 7M17 7H10M17 7V14\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg><span class=\"home-project-arrow-label\">Open <!-- -->Hosting demo nights</span></a></div></article><article class=\"case-study-card home-project-card space-below\"><div class=\"home-project-media\"><img src=\"https://www.rachelhow.com/images/home/projects/cat-rain.png\" loading=\"lazy\" alt=\"Cat rain\" class=\"case-study-thumbnail home-project-thumb\" width=\"1024\" height=\"578\"><img src=\"https://www.rachelhow.com/images/home/projects/cat-rain.png\" loading=\"lazy\" alt=\"\" aria-hidden=\"true\" class=\"home-project-blur\"><div class=\"home-project-dim\" aria-hidden=\"true\"></div><div class=\"home-project-copy\"><h3 class=\"home-project-title\">Cat rain</h3><p class=\"home-project-desc\">A useless game on mac.</p></div><a href=\"https://www.instagram.com/p/DZQ98FfToIu/\" target=\"_blank\" rel=\"noreferrer\" class=\"home-project-arrow\"><svg viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M7 17L17 7M17 7H10M17 7V14\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg><span class=\"home-project-arrow-label\">Open <!-- -->Cat rain</span></a></div></article></div><div class=\"home-col\"><article class=\"case-study-card home-project-card space-below\"><div class=\"home-project-media\"><img src=\"https://www.rachelhow.com/images/home/projects/sticker-dumplings.png\" loading=\"lazy\" alt=\"Sticker dumplings\" class=\"case-study-thumbnail home-project-thumb\" width=\"457\" height=\"408\"><img src=\"https://www.rachelhow.com/images/home/projects/sticker-dumplings.png\" loading=\"lazy\" alt=\"\" aria-hidden=\"true\" class=\"home-project-blur\"><div class=\"home-project-dim\" aria-hidden=\"true\"></div><div class=\"home-project-copy\"><h3 class=\"home-project-title\">Sticker dumplings</h3><p class=\"home-project-desc\">Stickers packed into hand-sewn cloth shaped like a dumpling 🥟</p></div><a href=\"https://www.instagram.com/reel/DJictQdyBsG/\" target=\"_blank\" rel=\"noreferrer\" class=\"home-project-arrow\"><svg viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M7 17L17 7M17 7H10M17 7V14\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg><span class=\"home-project-arrow-label\">Open <!-- -->Sticker dumplings</span></a></div></article><article class=\"case-study-card home-project-card space-below\"><div class=\"home-project-media\"><img src=\"https://www.rachelhow.com/images/home/projects/design-your-sunset.avif\" loading=\"lazy\" alt=\"Design Your Sunset\" class=\"case-study-thumbnail home-project-thumb\" width=\"1200\" height=\"900\"><img src=\"https://www.rachelhow.com/images/home/projects/design-your-sunset.avif\" loading=\"lazy\" alt=\"\" aria-hidden=\"true\" class=\"home-project-blur\"><div class=\"home-project-dim\" aria-hidden=\"true\"></div><div class=\"home-project-copy\"><h3 class=\"home-project-title\">Design Your Sunset</h3><p class=\"home-project-desc\">A studio for making sunset gradients.</p></div><a href=\"https://www.rachelhow.com/sunset\" target=\"_blank\" rel=\"noreferrer\" class=\"home-project-arrow\"><svg viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M7 17L17 7M17 7H10M17 7V14\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg><span class=\"home-project-arrow-label\">Open <!-- -->Design Your Sunset</span></a></div></article><article class=\"case-study-card home-project-card space-below home-gallery-card\"><div class=\"home-project-media home-gallery\" role=\"group\" aria-roledescription=\"carousel\" aria-label=\"Photo gallery\"><div class=\"home-gallery-track\" style=\"transform:translate3d(calc(0% + 0px), 0, 0)\"><img src=\"https://www.rachelhow.com/images/home/home-gallery-4.jpg\" alt=\"Desk corner with an orange tote and podcast mic\" class=\"home-gallery-slide\" loading=\"eager\" draggable=\"false\" aria-hidden=\"false\"><img src=\"https://www.rachelhow.com/images/home/home-gallery-1.jpg\" alt=\"Convex mirror selfie at my desk\" class=\"home-gallery-slide\" loading=\"lazy\" draggable=\"false\" aria-hidden=\"true\"><img src=\"https://www.rachelhow.com/images/home/home-gallery-2.jpg\" alt=\"Coffee outside the Monocle café\" class=\"home-gallery-slide\" loading=\"lazy\" draggable=\"false\" aria-hidden=\"true\"><img src=\"https://www.rachelhow.com/images/home/home-gallery-3.jpg\" alt=\"Desk by the window with a paper lantern and fresh flowers\" class=\"home-gallery-slide\" loading=\"lazy\" draggable=\"false\" aria-hidden=\"true\"><img src=\"https://www.rachelhow.com/images/home/home-gallery-5.jpg\" alt=\"Lemon poster and mushroom lamp above my desk shelf\" class=\"home-gallery-slide\" loading=\"lazy\" draggable=\"false\" aria-hidden=\"true\"></div><div class=\"home-gallery-dots\"><button type=\"button\" class=\"home-gallery-dot is-active\" aria-label=\"Show photo 1 of 5\" aria-current=\"true\"></button><button type=\"button\" class=\"home-gallery-dot\" aria-label=\"Show photo 2 of 5\" aria-current=\"false\"></button><button type=\"button\" class=\"home-gallery-dot\" aria-label=\"Show photo 3 of 5\" aria-current=\"false\"></button><button type=\"button\" class=\"home-gallery-dot\" aria-label=\"Show photo 4 of 5\" aria-current=\"false\"></button><button type=\"button\" class=\"home-gallery-dot\" aria-label=\"Show photo 5 of 5\" aria-current=\"false\"></button></div></div></article></div></div></div></section><div></div><!--$--><!--/$--></div><next-route-announcer style=\"position: absolute;\"><div aria-live=\"assertive\" id=\"__next-route-announcer__\" role=\"alert\" style=\"position: absolute; border: 0px; height: 1px; margin: -1px; padding: 0px; width: 1px; clip: rect(0px, 0px, 0px, 0px); overflow: hidden; white-space: nowrap; overflow-wrap: normal;\"></div></next-route-announcer></body></html>"
+  },
+  "scrape_id": "01a0973d-06a8-758c-bc6a-dd1fbc0e3538",
+  "id": "WPGusTwONxr6k_yJnAw9G",
+  "startedAt": "2026-09-12T20:09:14.504Z",
+  "endedAt": "2026-09-12T20:09:24.156Z",
+  "endpoint": "scrape",
+  "formState": {
+    "parseFile": null,
+    "parseFileMeta": null,
+    "extractSetupCompleted": false,
+    "urls": [],
+    "extractSchema": {
+      "type": "object",
+      "required": [],
+      "properties": {
+        "company_mission": {
+          "type": "string"
+        },
+        "supports_sso": {
+          "type": "boolean"
+        },
+        "is_open_source": {
+          "type": "boolean"
+        },
+        "is_in_yc": {
+          "type": "boolean"
+        }
+      }
+    },
+    "extractPrompt": "Extract the company details, following the schema.",
+    "enableWebSearch": false,
+    "constrainUrls": false,
+    "options": {
+      "onlyMainContent": true,
+      "parsePDF": true,
+      "excludeTags": [],
+      "includeTags": [],
+      "waitFor": "",
+      "timeout": "",
+      "maxAge": "2 days",
+      "ignoreSitemap": false,
+      "crawlEntireDomain": false,
+      "sitemap": "include",
+      "limit": "10",
+      "maxDepth": "",
+      "excludePaths": [],
+      "includePaths": [],
+      "includeSubdomains": false,
+      "search": "",
+      "scrapeContentFromSearchResults": true,
+      "timeBasedSearch": "",
+      "location": "",
+      "includeDomains": [],
+      "excludeDomains": [],
+      "prompt": ""
+    },
+    "formats": [
+      "branding",
+      "screenshot",
+      "html"
+    ],
+    "sources": [
+      "web"
+    ],
+    "categories": [],
+    "indexes": [],
+    "jsonSchema": {
+      "type": "object",
+      "required": [],
+      "properties": {
+        "company_name": {
+          "type": "string"
+        },
+        "company_description": {
+          "type": "string"
+        }
+      }
+    },
+    "jsonPrompt": "",
+    "questionPrompt": "",
+    "highlightsQuery": "",
+    "agent": {},
+    "url": "www.rachelhow.com/",
+    "endpoint": "scrape"
+  },
+  "status": "success",
+  "version": "gZCX9ESQb-4ImFYxjxIpV",
+  "isPreview": true
+}
