@@ -1,0 +1,7 @@
+# Ignore Python & workspace orchestration files on Vercel deployment
+execution/
+directives/
+.tmp/
+.agents/
+*.md
+!README.md
